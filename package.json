@@ -1,0 +1,32 @@
+{
+  "name": "bticket-design-system",
+  "version": "4.0.0",
+  "description": "Token-based React component library with 25 components, dark/light mode, and a 3-layer architecture.",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "dev": "echo '✅ No build needed — import directly from src/index.js'",
+    "preview": "echo 'Paste src/bticket-design-system.jsx into Claude.ai to preview all components'"
+  },
+  "keywords": [
+    "design-system",
+    "react",
+    "components",
+    "tokens",
+    "dark-mode",
+    "ui-library",
+    "bticket"
+  ],
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/bticket-design-system"
+  }
+}
