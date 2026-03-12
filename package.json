@@ -1,0 +1,17 @@
+{
+  "name": "bticket-design-system",
+  "version": "5.0.0",
+  "description": "Token-based React + Tailwind CSS component library. 25 components, dark/light mode, CSS custom properties.",
+  "main": "src/index.js",
+  "files": ["src/", "tailwind.config.js"],
+  "scripts": {
+    "dev": "echo '✅ No build needed — import from src/index.js and extend your tailwind.config.js'"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0",
+    "tailwindcss": ">=3.0.0"
+  },
+  "keywords": ["design-system", "react", "tailwindcss", "components", "tokens", "dark-mode"],
+  "license": "MIT"
+}
